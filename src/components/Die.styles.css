@@ -1,0 +1,19 @@
+.Die {
+  font-size: 9rem;
+  display: inline-block;
+  padding: 1rem;
+  color: tomato;
+  text-shadow: 0 0 6px rgba(0, 0, 0, 0.1), 0 0 6px rgba(0, 0, 0, 0.1);
+}
+/* .flip {
+  animation: flip 1s ease;
+}
+
+@keyframes flip {
+  50% {
+    transform: rotateY(180deg);
+  }
+  100% {
+    transform: rotateY(180deg) rotateX(180deg);
+  }
+} */
